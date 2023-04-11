@@ -1,0 +1,1 @@
+module.exports.projectsRoute = require('./projects');
